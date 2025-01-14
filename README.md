@@ -1,15 +1,55 @@
-<h1 align="center">Hi 👋, I'm 김지홍</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# **안녕하세요! 보안 엔지니어를 꿈꾸는 김지홍입니다. 👋**
 
-- 🔭 I’m currently working on **ㄱ**
+### 💻 **소개**
+- 🔒 보안에 대한 열정으로 CTF 및 DevSecOps 프로젝트에 적극적으로 참여하고 있습니다.
+- 🚀 새로운 기술을 배우고, 이를 활용해 실무에 적용할 수 있는 방법을 탐구하는 것을 좋아합니다.
+- 👯 다양한 프로젝트와 협업할 수 있는 기회를 항상 기다리고 있습니다.
+- 📫 **문의:** [wlghd0280@gmail.com]
 
-- 👯 I’m looking to collaborate on **ㄴ**
+---
 
-- 🤝 I’m looking for help with **ㄷ**
+### 🔥 **참여 프로젝트**
+1. **[Ignite CTF](https://github.com/JJH0204/Ignite_CTF)**  
+   다양한 보안 문제를 통해 실력을 키우고 협업한 CTF 플랫폼 프로젝트.
+   
+2. **[Flame](https://github.com/JJH0204/Flame)**  
+   보안 및 개발 자동화 도구를 포함한 오픈소스 DevSecOps 프로젝트.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+3. **[DevSecOps Full Project](https://github.com/jinyeong001/DevSecOps.Full-Project)**  
+   CI/CD 파이프라인에 보안 자동화를 도입한 DevSecOps 완성 프로젝트.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
+
+### ⚡ **기술 스택**
+
+#### 🛠️ **Shell & Scripting**
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+#### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
+
+#### 🚀 **DevOps & Container**
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+
+#### 📁 **Version Control & CI/CD**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github-pages&logoColor=white)
+
+#### 🖥️ **Operating Systems**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+### 📈 **GitHub 통계**
+![김지홍 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJH0204&show_icons=true&theme=radical)
+
+---
+
+### 📫 **연락처**
+- **이메일:** [wlghd0280@gmail.com]  

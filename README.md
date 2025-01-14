@@ -10,10 +10,10 @@
 
 ### 🔥 **참여 프로젝트**
 1. **[Ignite CTF](https://github.com/JJH0204/Ignite_CTF)**  
-   다양한 보안 문제를 통해 실력을 키우고 협업한 CTF 플랫폼 프로젝트.
+   "실제 환경과 유사한 가상 시뮬레이션 기반 CTF 플랫폼 프로젝트.
    
 2. **[Flame](https://github.com/JJH0204/Flame)**  
-   보안 및 개발 자동화 도구를 포함한 오픈소스 DevSecOps 프로젝트.
+   웹 보안 학습을 위한 실전형 워게임 플랫폼 프로젝트.
 
 3. **[DevSecOps Full Project](https://github.com/jinyeong001/DevSecOps.Full-Project)**  
    CI/CD 파이프라인에 보안 자동화를 도입한 DevSecOps 완성 프로젝트.
